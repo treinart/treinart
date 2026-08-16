@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Travis Reinart</title>
+  <desc id="desc">Applied AI, data products, and operations software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1320"/>
+      <stop offset="55%" stop-color="#14243A"/>
+      <stop offset="100%" stop-color="#0B1320"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00B8F5"/>
+      <stop offset="55%" stop-color="#5D7CFA"/>
+      <stop offset="100%" stop-color="#1ED682"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="420" rx="26" fill="url(#bg)"/>
+  <circle cx="1430" cy="42" r="180" fill="#00B8F5" opacity=".08"/>
+  <circle cx="1555" cy="370" r="210" fill="#5D7CFA" opacity=".08"/>
+  <circle cx="126" cy="332" r="116" fill="#1ED682" opacity=".06"/>
+  <path d="M0 387H1600" stroke="url(#line)" stroke-width="8"/>
+  <g transform="translate(72 83)">
+    <rect width="146" height="146" rx="25" fill="#0C1B2B" stroke="#2A4560" stroke-width="2"/>
+    <path d="M30 39H116M30 72H116M30 105H84" stroke="url(#line)" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="107" cy="105" r="10" fill="#1ED682" filter="url(#glow)"/>
+  </g>
+  <text x="258" y="145" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="2">TRAVIS REINART</text>
+  <text x="262" y="205" fill="#91A8C3" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" letter-spacing="1.2">APPLIED AI  /  DATA PRODUCTS  /  OPERATIONS SOFTWARE</text>
+  <g transform="translate(262 267)">
+    <rect width="433" height="47" rx="23.5" fill="#102842" stroke="#245379"/>
+    <circle cx="26" cy="23.5" r="7" fill="#00B8F5"/>
+    <text x="47" y="31" fill="#D6E6F7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">BUILDING PRACTICAL SYSTEMS</text>
+  </g>
+</svg>
