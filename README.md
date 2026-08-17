@@ -119,9 +119,8 @@ The comparison uses two pipelines: hand-engineered trajectory features with PCA 
 </div>
 
 <p align="center">
-  <video src="https://github.com/treinart/CSCA-5632-Unsupervised-Algorithms-in-Machine-Learning/raw/refs/heads/main/Week%205/scenario_replay/scenario_replay_cluster_20250917_221138.mp4" controls autoplay muted loop playsinline width="50%">
-    CSCA 5632 scenario replay video.
-  </video>
+  <img src="./assets/20250917_221504_alignment_scorecard_A1.png" alt="CSCA 5632 alignment scorecard" width="48%" />
+  <img src="./assets/20250917_221439_scene_compare_15692.png" alt="CSCA 5632 autonomous-vehicle scene comparison" width="48%" />
 </p>
 
 ### [CSCA 5622 · Introduction to Machine Learning: Supervised Learning](https://github.com/treinart/CSCA-5622-Supervised-Learning-Final-Project)
@@ -176,87 +175,21 @@ A public memorial website created for my dad, David "Dave" Reinart. It brings to
 
 ## Graduate Study
 
-<table width="100%" bgcolor="#000000" border="3" bordercolor="#CFB87C" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="34%" valign="middle">
-      <img src="./assets/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder" width="270" /><br />
-      <font color="#CFB87C"><strong><sub>COLLEGE OF ENGINEERING &amp; APPLIED SCIENCE</sub></strong></font>
-    </td>
-    <td width="48%" valign="middle">
-      <font color="#CFB87C"><strong>Master of Science in Artificial Intelligence</strong></font><br />
-      <font color="#F3F0E9"><sub>Graduate study includes machine learning, probability and statistics, autonomous systems, robotics, AI systems, knowledge representation and uncertainty modeling, with applied Python-based modeling and analysis.</sub></font>
-    </td>
-    <td width="18%" align="right" valign="top">
-      <font color="#FFFFFF"><strong>GPA 3.924</strong></font><br />
-      <font color="#CFB87C"><strong><sub>EXPECTED DECEMBER 2026</sub></strong></font>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/cu_banner.png" alt="University of Colorado Boulder Master of Science in Artificial Intelligence" width="100%" />
+</p>
 
-<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="8" bgcolor="#CFB87C">&nbsp;</td>
-    <td>
-      <table width="100%" cellpadding="14" cellspacing="0">
-        <tr>
-          <td width="70%" valign="middle">
-            <font color="#A2A4A3" size="5"><strong>Graduate Coursework by Specialty</strong></font><br />
-            <font color="#F8F8F8">Completed graduate coursework across artificial intelligence, machine learning, robotics, language, autonomous systems, and financial analysis.</font>
-          </td>
-          <td width="30%" align="right" valign="middle">
-            <img src="./assets/cu_buff.png" alt="University of Colorado Boulder Buffs" width="190" />
-          </td>
-        </tr>
-      </table>
-      <hr size="3" color="#A2A4A3" />
-      <table width="100%" border="1" bordercolor="#333333" cellpadding="9" cellspacing="0">
-        <tr bgcolor="#111111">
-          <th width="34%" align="left"><font color="#FFFFFF">Specialty</font></th>
-          <th width="66%" align="left"><font color="#FFFFFF">Graduate Courses</font></th>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Machine Learning: Theory and Hands-on Practice with Python</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5622">CSCA 5622 · Introduction to Machine Learning: Supervised Learning</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5632">CSCA 5632 · Unsupervised Algorithms in Machine Learning</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5642">CSCA 5642 · Introduction to Deep Learning</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Foundations of Probability and Statistics</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/appa-5001-probability-foundations-data-science-and-ai-1">APPA 5001 · Probability Foundations for Data Science and AI 1</a><br /><a href="https://www.colorado.edu/cs/appa-5002-discrete-time-markov-chains-and-monte-carlo-methods">APPA 5002 · Discrete-Time Markov Chains and Monte Carlo Methods</a><br /><a href="https://www.colorado.edu/cs/appa-5003-statistical-estimation-data-science-and-ai">APPA 5003 · Statistical Estimation for Data Science and AI</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Artificial Intelligence Ethics</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/csca-5204-current-issues-ethics-and-ai">CSCA 5204 · Current Issues in Ethics and AI</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5274">CSCA 5274 · AI Ethics and Society's Future</a><br /><font color="#F8F8F8">CSCA 5284 · AI Ethics and Policy</font></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Artificial Intelligence</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5002">CSCA 5002 · Intelligent Agents and Search Algorithms</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5012">CSCA 5012 · Knowledge Representation and Reasoning Under Uncertainty</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5022">CSCA 5022 · Introduction to Learning</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Foundations of Reinforcement Learning</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5902">CSCA 5902 · Mastering Classic Reinforcement Learning Algorithms</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5912">CSCA 5912 · Deep Reinforcement Learning: From Theory to Practice</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5922">CSCA 5922 · Reward Programming: Optimizing RL Efficiency and Safety</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Introduction to Robotics with Webots</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5312">CSCA 5312 · Basic Robotic Behaviors and Odometry</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5332">CSCA 5332 · Robotic Mapping and Trajectory Generation</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5342">CSCA 5342 · Robotic Path Planning and Task Execution</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Natural Language Processing: Deep Learning Meets Linguistics</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5832">CSCA 5832 · Fundamentals of Natural Language Processing</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5842">CSCA 5842 · Deep Learning for Natural Language Processing</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Generative AI</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5112">CSCA 5112 · Introduction to Generative AI</a><br /><a href="https://www.colorado.edu/cs/csca-5122-modern-applications-generative-ai">CSCA 5122 · Modern Applications of Generative AI</a><br /><a href="https://www.colorado.edu/cs/csca-5132-advances-generative-ai">CSCA 5132 · Advances in Generative AI</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><font color="#CFB87C"><strong>Foundations of Autonomous Systems</strong></font></td>
-          <td valign="top"><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5834">CSCA 5834 · Modeling of Autonomous Systems</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5844">CSCA 5844 · Requirement Specifications for Autonomous Systems</a><br /><a href="https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5854">CSCA 5854 · Verification and Synthesis of Autonomous Systems</a></td>
-        </tr>
-        <tr>
-          <td valign="top"><a href="https://www.colorado.edu/ali/finance-technical-managers-specialization"><font color="#CFB87C"><strong>Finance for Technical Managers</strong></font></a></td>
-          <td valign="top"><a href="https://www.colorado.edu/program/data-science/coursera/curriculum/emea5021">EMEA 5021 · Product Cost and Investment Cash Flow Analysis</a><br /><a href="https://www.colorado.edu/program/data-science/coursera/curriculum/emea5022">EMEA 5022 · Project Valuation and the Capital Budgeting Process</a><br /><a href="https://www.colorado.edu/program/data-science/coursera/curriculum/emea5023">EMEA 5023 · Financial Forecasting and Reporting</a></td>
-        </tr>
-      </table>
-      <hr size="8" color="#A2A4A3" />
-    </td>
-    <td width="8" bgcolor="#A2A4A3">&nbsp;</td>
-  </tr>
-</table>
+### Graduate Coursework by Specialty
+
+| Specialty | Graduate Courses |
+| --- | --- |
+| **Machine Learning: Theory and Hands-on Practice with Python** | [CSCA 5622 · Introduction to Machine Learning: Supervised Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5622)<br>[CSCA 5632 · Unsupervised Algorithms in Machine Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5632)<br>[CSCA 5642 · Introduction to Deep Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5642) |
+| **Foundations of Probability and Statistics** | [APPA 5001 · Probability Foundations for Data Science and AI 1](https://www.colorado.edu/cs/appa-5001-probability-foundations-data-science-and-ai-1)<br>[APPA 5002 · Discrete-Time Markov Chains and Monte Carlo Methods](https://www.colorado.edu/cs/appa-5002-discrete-time-markov-chains-and-monte-carlo-methods)<br>[APPA 5003 · Statistical Estimation for Data Science and AI](https://www.colorado.edu/cs/appa-5003-statistical-estimation-data-science-and-ai) |
+| **Artificial Intelligence Ethics** | [CSCA 5204 · Current Issues in Ethics and AI](https://www.colorado.edu/cs/csca-5204-current-issues-ethics-and-ai)<br>[CSCA 5274 · AI Ethics and Society's Future](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5274)<br>CSCA 5284 · AI Ethics and Policy |
+| **Artificial Intelligence** | [CSCA 5002 · Intelligent Agents and Search Algorithms](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5002)<br>[CSCA 5012 · Knowledge Representation and Reasoning Under Uncertainty](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5012)<br>[CSCA 5022 · Introduction to Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5022) |
+| **Foundations of Reinforcement Learning** | [CSCA 5902 · Mastering Classic Reinforcement Learning Algorithms](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5902)<br>[CSCA 5912 · Deep Reinforcement Learning: From Theory to Practice](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5912)<br>[CSCA 5922 · Reward Programming: Optimizing RL Efficiency and Safety](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5922) |
+| **Introduction to Robotics with Webots** | [CSCA 5312 · Basic Robotic Behaviors and Odometry](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5312)<br>[CSCA 5332 · Robotic Mapping and Trajectory Generation](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5332)<br>[CSCA 5342 · Robotic Path Planning and Task Execution](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5342) |
+| **Natural Language Processing: Deep Learning Meets Linguistics** | [CSCA 5832 · Fundamentals of Natural Language Processing](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5832)<br>[CSCA 5842 · Deep Learning for Natural Language Processing](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5842) |
+| **Generative AI** | [CSCA 5112 · Introduction to Generative AI](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5112)<br>[CSCA 5122 · Modern Applications of Generative AI](https://www.colorado.edu/cs/csca-5122-modern-applications-generative-ai)<br>[CSCA 5132 · Advances in Generative AI](https://www.colorado.edu/cs/csca-5132-advances-generative-ai) |
+| **Foundations of Autonomous Systems** | [CSCA 5834 · Modeling of Autonomous Systems](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5834)<br>[CSCA 5844 · Requirement Specifications for Autonomous Systems](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5844)<br>[CSCA 5854 · Verification and Synthesis of Autonomous Systems](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5854) |
+| **[Finance for Technical Managers](https://www.colorado.edu/ali/finance-technical-managers-specialization)** | [EMEA 5021 · Product Cost and Investment Cash Flow Analysis](https://www.colorado.edu/program/data-science/coursera/curriculum/emea5021)<br>[EMEA 5022 · Project Valuation and the Capital Budgeting Process](https://www.colorado.edu/program/data-science/coursera/curriculum/emea5022)<br>[EMEA 5023 · Financial Forecasting and Reporting](https://www.colorado.edu/program/data-science/coursera/curriculum/emea5023) |
